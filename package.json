@@ -9,6 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jed Hastwell",
+  "repository": "https://github.com/jedhastwell/phaser3-es6-webpack-boilerplate",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.8.3",
